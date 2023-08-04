@@ -8,9 +8,9 @@ Spring Security é um poderoso e altamente customizável framework de controle d
 
 ## Conteúdo
 
-[**src**](https://github.com/micael-ortega/security/src): o diretório contém o código fonte
+[**src**](https://github.com/micael-ortega/security/tree/main/security): o diretório contém o código fonte
 
-[**examples**](https://github.com/micael-ortega): o diretório contém exemplos práticos demonstrando a implementação do Spring Security
+[**examples**](https://github.com/micael-ortega/security/tree/main/examples): o diretório contém exemplos práticos demonstrando a implementação do Spring Security
 
 ## Conceitos chaves explorados
 
